@@ -22,26 +22,26 @@
 		{
 			$fn=$_GET["fname"];
 			if ($fn=="") {
-				header("location:reg.php?msg= Please Enter First Name...");
+				header("location:reg.php?msg= Please Enter Full Name...");
 				exit();
 			}
 		}
 		else
 		{
-			header("location:reg.php?msg= Please Enter First Name...");
+			header("location:reg.php?msg= Please Enter Full Name...");
 			exit();	
 		}
 		if(isset($_GET['lname']))
 		{
 			$ln=$_GET["lname"];
 			if ($ln=="") {
-				header("location:reg.php?msg= Please Enter First Name...");
+				header("location:reg.php?msg= Please Enter Full Name...");
 				exit();
 			}
 		}
 		else
 		{
-			header("location:reg.php?msg= Please Enter Last Name...");
+			header("location:reg.php?msg= Please Enter Mother Name...");
 			exit();	
 		}
 

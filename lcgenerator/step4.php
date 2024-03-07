@@ -592,11 +592,11 @@
                  <div class="col-sm-12 table-responsive fix">
                 <table align="center" class="table table-bordered table-striped">
                   <tr>
-                    <th>First Name :</th>
+                    <th>Full Name :</th>
                     <td><?php echo "$fn";  ?></td>  
                   </tr>
                   <tr>
-                    <th>Last Name :</th>
+                    <th>Mother Name :</th>
                     <td><?php echo "$ln";  ?></td>  
                   </tr>
                   <tr>

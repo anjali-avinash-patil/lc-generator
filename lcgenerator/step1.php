@@ -227,7 +227,7 @@
               </div>
               <div class="col-md-6">
                 <div class="form-label-group">
-                  <input type="text" id="lastName" name="lname" class="form-control" placeholder="Last name"  value="<?php echo $ln; ?>">
+                  <input type="text" id="lastName" name="lname" class="form-control" placeholder="Mother Name"  value="<?php echo $ln; ?>">
                   <label for="lastName">Mother Name</label>
                 </div>
               </div>
